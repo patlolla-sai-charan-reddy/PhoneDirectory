@@ -1,2 +1,0 @@
-# PhoneDirectory
-Created with CodeSandbox
